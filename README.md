@@ -2,6 +2,6 @@
 
 ## Important Links
 
-Slack Workspace: [ucfvirtbofsfp-m6v6319.slack.com](ucfvirtbofsfp-m6v6319.slack.com)
+Slack Workspace: [https://ucfvirtbofsfp-m6v6319.slack.com](https://ucfvirtbofsfp-m6v6319.slack.com)
 
 Canvas Bootcamp Spot: [https://courses.bootcampspot.com](https://courses.bootcampspot.com)
