@@ -1,9 +1,9 @@
-/* TODO: Label selector type */
+/* TODO: universal selector */
 * {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
 
-/* TODO: Label selector type */
+/* TODO: element selector */
 body {
   background-color: lemonchiffon;
 }
@@ -22,12 +22,12 @@ figure {
   background-color: #f0ead6;
 }
 
-/* TODO: Label selector type */
+/* TODO: class selectore */
 .highlighted-text {
   font-weight: bolder;
 }
 
-/* TODO: Label selector type */
+/* TODO: id selector */
 #contact-section {
   background-color: #f0ead6;
 }

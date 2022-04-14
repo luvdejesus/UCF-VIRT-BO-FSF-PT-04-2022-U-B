@@ -3,13 +3,14 @@ section {
   height: 600px;
   text-align: center;
   border: 15px solid black;
+  scroll-padding-block: 17px; 
 }
 
 img {
   width: 200px;
   height: 200px;
   background-color: lightblue;
-  /* TODO: Add a margin property */
-  /* TODO: Add a padding property */
-  /* TODO: Add a border property */
-}
+  padding: 20px;
+  margin: 10px; 
+  border: 9px solid darkblue
+ 
