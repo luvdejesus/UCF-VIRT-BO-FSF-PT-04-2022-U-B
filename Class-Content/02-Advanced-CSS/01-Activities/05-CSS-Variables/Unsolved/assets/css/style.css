@@ -1,3 +1,12 @@
+:root {
+
+  --white: #fff 
+  --orange: #d8a47f
+  --dark-blue: #13293d
+
+  
+}
+
 body {
   font-size: 16px;
   display: flex;
