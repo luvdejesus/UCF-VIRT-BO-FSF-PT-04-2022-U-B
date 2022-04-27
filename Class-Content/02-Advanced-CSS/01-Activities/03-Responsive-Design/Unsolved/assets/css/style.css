@@ -16,7 +16,7 @@ header {
 
 /* 
 What happens when we set the display property to flex? 
-TODO: Write your answer here 
+TODO: items display in a row
 */
 nav {
   display: flex;
@@ -32,7 +32,7 @@ nav a {
 
 /* 
 What is the flex-wrap property? 
-TODO: Write your answer here 
+TODO: able to flex into multiple lines if need be
 */
 main {
   display: flex;
@@ -56,7 +56,8 @@ footer {
 
 /* 
 What does the justify-content property do? 
-TODO: Write your answer here 
+TODO: defines how the browser distributse content. 
+used to alighn flew items.
 */
 .products {
   flex: 4;
@@ -70,7 +71,11 @@ TODO: Write your answer here
 /* 
 What is the flex property a shorthand property for?
 What is it doing here? 
-TODO: Write your answer here 
+TODO: flex row
+defualts to flew row
+allowing the boxes to aline as needed
+value of 400 doesnt allow the cards 
+to go below that amount
 */
 .card {
   border-style: solid;
@@ -94,8 +99,9 @@ TODO: Write your answer here
 
 /* 
 What does the flex-direction property define?
+specify row or column
 What is it doing here? 
-TODO: Write your answer here 
+flex items into a column 
 */
 @media screen and (max-width: 768px) {
   main,
